@@ -1,0 +1,277 @@
+/* ============================================================
+   La espada de la luna — estilos del libro
+   Los colores están definidos como variables: cámbialos aquí.
+   ============================================================ */
+
+:root {
+  --fondo: #f7f3ea;          /* papel */
+  --fondo-alt: #efe8d8;
+  --texto: #2b2620;
+  --texto-suave: #6b6256;
+  --acento: #3d5a80;         /* azul nocturno */
+  --acento-texto: #ffffff;
+  --borde: #dcd2bf;
+  --sombra: 0 1px 3px rgba(43, 38, 32, 0.08), 0 8px 24px rgba(43, 38, 32, 0.06);
+
+  --letra-texto: "Literata", Georgia, "Times New Roman", serif;
+  --letra-titulos: "Cinzel", "Trajan Pro", Georgia, serif;
+  --letra-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --ancho-lectura: 38rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) {
+    --fondo: #14161c;
+    --fondo-alt: #1d2029;
+    --texto: #e4e0d6;
+    --texto-suave: #9c978c;
+    --acento: #a9c1e8;
+    --acento-texto: #14161c;
+    --borde: #2e323d;
+    --sombra: 0 1px 3px rgba(0, 0, 0, 0.4), 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+}
+
+:root[data-tema="oscuro"] {
+  --fondo: #14161c;
+  --fondo-alt: #1d2029;
+  --texto: #e4e0d6;
+  --texto-suave: #9c978c;
+  --acento: #a9c1e8;
+  --acento-texto: #14161c;
+  --borde: #2e323d;
+  --sombra: 0 1px 3px rgba(0, 0, 0, 0.4), 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--fondo);
+  color: var(--texto);
+  font-family: var(--letra-texto);
+  font-size: 1.125rem;
+  line-height: 1.7;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+a { color: var(--acento); }
+
+main { padding: 0 1rem; }
+
+/* ---------- Barra superior ---------- */
+.barra {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.6rem 1rem;
+  background: color-mix(in srgb, var(--fondo) 92%, transparent);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--borde);
+  font-family: var(--letra-ui);
+  font-size: 0.95rem;
+}
+.barra-titulo {
+  font-family: var(--letra-titulos);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--texto);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.barra-acciones { display: flex; align-items: center; gap: 0.75rem; flex-shrink: 0; }
+.barra-acciones a { color: var(--texto-suave); text-decoration: none; }
+.barra-acciones a:hover { color: var(--texto); }
+
+.boton-tema {
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 50%;
+  background: var(--fondo-alt);
+  color: var(--texto);
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+.boton-tema .icono-sol { display: none; }
+:root[data-tema="oscuro"] .boton-tema .icono-sol { display: inline; }
+:root[data-tema="oscuro"] .boton-tema .icono-luna { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) .boton-tema .icono-sol { display: inline; }
+  :root:not([data-tema="claro"]) .boton-tema .icono-luna { display: none; }
+}
+
+/* ---------- Portada ---------- */
+.portada {
+  max-width: 56rem;
+  margin: 2.5rem auto 3rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: center;
+}
+.portada-imagen img,
+.portada-hueco {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  border-radius: 6px;
+  box-shadow: var(--sombra);
+}
+.portada-imagen img { display: block; object-fit: cover; }
+.portada-hueco {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1.5rem;
+  text-align: center;
+  border: 2px dashed var(--borde);
+  background: var(--fondo-alt);
+  color: var(--texto-suave);
+  font-family: var(--letra-ui);
+}
+.portada-hueco small { font-size: 0.8rem; }
+.portada-luna { font-size: 4rem; line-height: 1; color: var(--acento); }
+
+.portada-titulo {
+  font-family: var(--letra-titulos);
+  font-weight: 700;
+  font-size: clamp(2.2rem, 7vw, 3.6rem);
+  line-height: 1.1;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.5rem;
+}
+.portada-subtitulo { font-style: italic; color: var(--texto-suave); margin: 0 0 1.5rem; font-size: 1.25rem; }
+.portada-autor { font-family: var(--letra-ui); text-transform: uppercase; letter-spacing: 0.15em; font-size: 0.85rem; color: var(--texto-suave); margin: 0 0 2rem; }
+
+.boton-empezar {
+  display: inline-block;
+  padding: 0.8rem 1.6rem;
+  border-radius: 999px;
+  background: var(--acento);
+  color: var(--acento-texto);
+  font-family: var(--letra-ui);
+  font-weight: 600;
+  text-decoration: none;
+}
+.boton-empezar:hover { filter: brightness(1.08); }
+
+/* ---------- Índice ---------- */
+.indice { max-width: var(--ancho-lectura); margin: 0 auto 4rem; }
+.indice h2 {
+  font-family: var(--letra-titulos);
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 0.08em;
+  border-bottom: 1px solid var(--borde);
+  padding-bottom: 0.75rem;
+}
+.indice-lista { list-style: none; padding: 0; margin: 0; }
+.indice-lista a {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.9rem 0.5rem;
+  border-bottom: 1px solid var(--borde);
+  color: var(--texto);
+  text-decoration: none;
+}
+.indice-lista a:hover { background: var(--fondo-alt); }
+.indice-numero { font-family: var(--letra-titulos); color: var(--acento); min-width: 2ch; text-align: right; }
+
+/* ---------- Capítulo ---------- */
+.capitulo { max-width: var(--ancho-lectura); margin: 0 auto; padding: 3rem 0 2rem; }
+.capitulo-cabecera { text-align: center; margin-bottom: 2.5rem; }
+.capitulo-numero {
+  font-family: var(--letra-ui);
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.8rem;
+  color: var(--texto-suave);
+  margin: 0;
+}
+.capitulo h1 {
+  font-family: var(--letra-titulos);
+  font-weight: 500;
+  font-size: clamp(1.8rem, 6vw, 2.5rem);
+  line-height: 1.2;
+  margin: 0.4rem 0 0;
+}
+
+.texto p { margin: 0; text-indent: 1.5em; hyphens: auto; }
+.texto > p:first-of-type { text-indent: 0; }
+.texto > p:first-of-type::first-letter {
+  float: left;
+  font-family: var(--letra-titulos);
+  font-size: 3.4em;
+  line-height: 0.85;
+  padding: 0.08em 0.1em 0 0;
+  color: var(--acento);
+}
+.texto hr {
+  border: 0;
+  margin: 2rem 0;
+  text-align: center;
+}
+.texto hr::after { content: "☾ ✦ ☽"; color: var(--texto-suave); letter-spacing: 0.5em; }
+.texto hr + p { text-indent: 0; }
+.texto blockquote { margin: 1.5rem 0; padding-left: 1rem; border-left: 3px solid var(--borde); font-style: italic; color: var(--texto-suave); }
+.texto blockquote p { text-indent: 0; }
+.texto h2, .texto h3 { font-family: var(--letra-titulos); font-weight: 500; margin: 2rem 0 1rem; }
+
+/* ---------- Anterior / siguiente ---------- */
+.navegacion {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 3.5rem;
+  font-family: var(--letra-ui);
+}
+.nav-boton {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--borde);
+  border-radius: 8px;
+  background: var(--fondo-alt);
+  color: var(--texto);
+  text-decoration: none;
+  min-height: 4.5rem;
+}
+.nav-boton:hover { border-color: var(--acento); }
+.nav-siguiente { text-align: right; }
+.nav-etiqueta { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--acento); }
+.nav-titulo { font-size: 0.95rem; }
+
+/* ---------- Pie ---------- */
+.pie {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-top: 1px solid var(--borde);
+  color: var(--texto-suave);
+  font-family: var(--letra-ui);
+  font-size: 0.85rem;
+}
+
+/* ---------- Celular ---------- */
+@media (max-width: 640px) {
+  body { font-size: 1.0625rem; line-height: 1.65; }
+  .portada { grid-template-columns: 1fr; gap: 1.75rem; margin-top: 1.5rem; text-align: center; }
+  .portada-imagen { max-width: 16rem; margin: 0 auto; width: 100%; }
+  .capitulo { padding-top: 2rem; }
+  .navegacion { grid-template-columns: 1fr; }
+  .nav-siguiente { text-align: left; order: -1; }
+}

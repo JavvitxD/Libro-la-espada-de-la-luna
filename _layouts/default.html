@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include barra.html %}
+  <main>
+    {{ content }}
+  </main>
+  <footer class="pie">
+    <p>{{ site.title }} · {{ site.autor }}</p>
+  </footer>
+  <script src="{{ '/assets/js/libro.js' | relative_url }}"></script>
+</body>
+</html>

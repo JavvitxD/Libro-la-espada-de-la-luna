@@ -1,0 +1,48 @@
+---
+layout: default
+---
+{% assign capitulos = site.pages | where_exp: "p", "p.path contains 'capitulos/'" | sort: "numero" %}
+{% for c in capitulos %}
+  {% if c.url == page.url %}
+    {% assign i = forloop.index0 %}
+    {% assign i_ant = i | minus: 1 %}
+    {% assign i_sig = i | plus: 1 %}
+    {% if i > 0 %}{% assign anterior = capitulos[i_ant] %}{% endif %}
+    {% assign siguiente = capitulos[i_sig] %}
+  {% endif %}
+{% endfor %}
+<article class="capitulo">
+  <header class="capitulo-cabecera">
+    <p class="capitulo-numero">Capítulo {{ page.numero }}</p>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="texto">
+    {{ content }}
+  </div>
+
+  <nav class="navegacion" aria-label="Navegación entre capítulos">
+    {% if anterior %}
+      <a class="nav-boton nav-anterior" rel="prev" href="{{ anterior.url | relative_url }}">
+        <span class="nav-etiqueta">← Anterior</span>
+        <span class="nav-titulo">{{ anterior.title }}</span>
+      </a>
+    {% else %}
+      <a class="nav-boton nav-anterior" href="{{ '/' | relative_url }}">
+        <span class="nav-etiqueta">← Portada</span>
+        <span class="nav-titulo">{{ site.title }}</span>
+      </a>
+    {% endif %}
+    {% if siguiente %}
+      <a class="nav-boton nav-siguiente" rel="next" href="{{ siguiente.url | relative_url }}">
+        <span class="nav-etiqueta">Siguiente →</span>
+        <span class="nav-titulo">{{ siguiente.title }}</span>
+      </a>
+    {% else %}
+      <a class="nav-boton nav-siguiente" href="{{ '/#indice' | relative_url }}">
+        <span class="nav-etiqueta">Fin por ahora</span>
+        <span class="nav-titulo">Volver al índice</span>
+      </a>
+    {% endif %}
+  </nav>
+</article>

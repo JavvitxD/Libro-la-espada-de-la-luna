@@ -1,0 +1,32 @@
+# ------------------------------------------------------------
+# Configuración del libro. Cambia estos valores a tu gusto.
+# ------------------------------------------------------------
+title: "La espada de la luna"
+subtitulo: "Una novela"
+autor: "Tu nombre aquí"
+description: "Lee en línea La espada de la luna, capítulo a capítulo."
+lang: es
+
+# Imagen de portada. Sube tu imagen a assets/img/ y escribe aquí su ruta,
+# por ejemplo: /assets/img/portada.jpg  (déjalo vacío para ver el recuadro de muestra)
+imagen_portada: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+# Todo lo que está en capitulos/ usa automáticamente el diseño de capítulo
+defaults:
+  - scope:
+      path: "capitulos"
+    values:
+      layout: capitulo
+
+# Estos archivos no se publican en la web
+exclude:
+  - planificacion/
+  - README.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock

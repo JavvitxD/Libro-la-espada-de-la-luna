@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{% assign capitulos = site.pages | where_exp: "p", "p.path contains 'capitulos/'" | sort: "numero" %}
+<section class="portada">
+  <div class="portada-imagen">
+    {% if site.imagen_portada and site.imagen_portada != "" %}
+      <img src="{{ site.imagen_portada | relative_url }}" alt="Portada de {{ site.title }}">
+    {% else %}
+      <div class="portada-hueco">
+        <span class="portada-luna" aria-hidden="true">☾</span>
+        <span>Espacio para la imagen de portada</span>
+        <small>Sube tu imagen a <code>assets/img/</code> y ponla en <code>_config.yml</code></small>
+      </div>
+    {% endif %}
+  </div>
+  <div class="portada-texto">
+    <h1 class="portada-titulo">{{ site.title }}</h1>
+    {% if site.subtitulo %}<p class="portada-subtitulo">{{ site.subtitulo }}</p>{% endif %}
+    <p class="portada-autor">{{ site.autor }}</p>
+    {% if capitulos.size > 0 %}
+      <a class="boton-empezar" href="{{ capitulos.first.url | relative_url }}">Empezar a leer</a>
+    {% endif %}
+  </div>
+</section>
+
+<section class="indice" id="indice">
+  <h2>Índice</h2>
+  <ol class="indice-lista">
+    {% for c in capitulos %}
+      <li>
+        <a href="{{ c.url | relative_url }}">
+          <span class="indice-numero">{{ c.numero }}</span>
+          <span class="indice-titulo">{{ c.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
