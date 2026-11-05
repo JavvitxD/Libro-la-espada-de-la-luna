@@ -21,7 +21,7 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
   Tras la batalla el hielo se rompió y quedaron **islotes de tierra**: hoy es **tierra de
   nadie**, habitada solo por bestias mágicas muy poderosas. Nadie se atreve a cruzar.
   Existe el **miedo** de que otra glaciación vuelva a abrir el camino.
-  *(Pendiente: nombre del lugar.)*
+  Se llama **Los Islotes del Aullido Final**.
 - **Pantano**: al sur del campo de batalla, en territorio del Imperio.
 - **Bosques del sur**: el sur del Imperio está lleno de bosques con bestias mágicas.
 - **Tsargrad**: capital del Imperio. **Ciudad portuaria**, junto al mar.
@@ -57,6 +57,10 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - Los supervivientes viven en un pequeño poblado nómada en las Montañas Oscuras. Algunos
   son cazadores, pero han perdido el espíritu de lucha tras ver caer a su clan.
 - *Pendiente:* ¿cuál es su relación con el Imperio? ¿Eran parte de él?
+
+### El clan de los topos
+- Zapadores del Imperio y además **herreros expertos**.
+- Mantienen desde siempre una **buena relación con el clan lobo**.
 
 ### Facción contraria al Imperio
 - Se alía con los Ulrak para robar la pólvora. *(Pendiente: quiénes son y por qué.)*
@@ -105,8 +109,13 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
   aliados incluidos, y no solo sobre el enemigo. El plan estaba diseñado así a propósito.
   Además de frenar a los Ulrak, era una jugada para **acabar con los clanes** (lobos y
   cánidos), a los que el emperador envidiaba y temía.
-- **Quién conoce la verdad:** el líder de los topos (ver `personajes.md`). Los tejones no la
-  conocen: solo cavaron. *(Pendiente: ¿la conoce Tsar? ¿Cornelius?)*
+- **Quién conoce la verdad:**
+  - El **líder de los topos** es el único de su pueblo que sigue vivo sabiéndolo. Los
+    **ancianos topos** que también lo sabían murieron en la batalla, durante el asalto
+    final: un grupo de reptiles intentó impedir que cavaran.
+  - **Tsar** y **Cornelius** lo saben. *"No hay secreto que el clan de asesinos no sepa"*,
+    como dice Cornelius.
+  - Los tejones no lo saben: solo cavaron. El hijo del líder topo tampoco.
 - **Si se supiera:** sería un golpe enorme para el Imperio, porque todos descubrirían que el
   emperador sacrificó a los clanes a propósito.
 - Ulfgar, el padre de Jawvit, cayó, pero antes mató en **combate singular al Gran Reptil Blanco**,

@@ -34,6 +34,7 @@
 - **Cara pública:** amable, cariñoso, excelente político. Las masas lo quieren y lo respetan.
 - **Lo que nadie sabe:** es un genio estratega, calculador y sanguinario, al que no le
   importa nada con tal de lograr sus objetivos. Esconde oscuros secretos.
+- Conoce el secreto del peñasco que ordenó su predecesor.
 
 ## Cornelius Justix
 - **Especie:** búho astuto.
@@ -42,6 +43,7 @@
   tronos*). Pero en esencia el emperador y el clan existen para proteger el Imperio, y Tsar
   lo sabe. Cuando están a solas sale a relucir una **amistad tóxica**.
 - Es **100 % leal** al emperador, y Tsar lo sabe.
+- Conoce el secreto del peñasco. Su frase: *"No hay secreto que el clan de asesinos no sepa."*
 
 ## Capitán Máximo
 - **Especie:** toro de lidia.
@@ -58,15 +60,15 @@
 ## El líder de los topos
 - **Nombre:** *(pendiente; nombre latino, como los súbditos del Imperio)*
 - Jefe de los topos zapadores que derribaron el peñasco. Era un hombre **honorable**.
-- Es el único que conoce el secreto completo. El emperador amenazó con acabar con su familia
-  si hablaba.
+- Es el único topo vivo que conoce el secreto completo (los ancianos que lo sabían murieron en
+  la batalla). El emperador amenazó con acabar con su familia si hablaba.
 - No soportó la carga y se volvió **borracho**.
 
 ## El hijo del líder de los topos
 - **Nombre:** *(pendiente; nombre latino)*
-- Se hace **amigo de Jawvit** y es quien hace el **mantenimiento de su espada**.
-- **Ironía dramática:** su padre conoce la verdad sobre la muerte de Ulfgar.
-  *(Pendiente: ¿el hijo conoce el secreto?)*
+- **Amigo de Jawvit** desde siempre (los clanes lobo y topo siempre se han conocido).
+- Herrero, como su pueblo: es quien hace el **mantenimiento de la espada** de Jawvit.
+- **No conoce el secreto.** Ironía dramática: su padre sabe la verdad sobre la muerte de Ulfgar.
 
 ## El clan de los tejones
 - Pusieron la mano de obra para cavar bajo el peñasco.

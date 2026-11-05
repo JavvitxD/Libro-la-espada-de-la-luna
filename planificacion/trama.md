@@ -14,7 +14,8 @@ Saga. Este libro es **la primera entrega**.
 ## El gran secreto (revelación de la saga)
 El emperador anterior sacrificó a propósito al clan lobo y a sus aliados en "El último aullido"
 (ver `mundo.md`). Solo el líder de los topos sabe toda la verdad. Su hijo es amigo de Jawvit.
-*(Pendiente: ¿en qué entrega se revela? ¿Cómo lo descubre Jawvit?)*
+- **No se revela en el primer libro.** Se guarda para más adelante en la saga; en este libro,
+  como mucho, se insinúa (por ejemplo, con la culpa y la bebida del viejo topo).
 
 ## Dos historias paralelas (se unirán más adelante)
 1. **Jawvit:** el **hambre** golpea a su pueblo. Con un pequeño grupo de cazadores, sale de las
