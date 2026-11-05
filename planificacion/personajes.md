@@ -26,12 +26,12 @@
 ## Los compañeros de cacería de Jawvit
 El grupo que sale del poblado son **tres**: Jawvit, un zorro y un perro.
 
-### El zorro
-- **Nombre:** *(pendiente; estilo vikingo)*
+### Refr — el zorro
+- **Nombre:** *Refr* ("zorro" en nórdico antiguo).
 - Astuto y ágil. Experto con **dagas y arco**.
 
-### El perro
-- **Nombre:** *(pendiente; estilo vikingo)*
+### Björn — el mastín
+- **Nombre:** *Björn* ("oso" en nórdico antiguo).
 - **Raza:** **mastín tibetano**: enorme, con melena como de león.
 - Algo torpe al hablar, pero **fuerte y leal**.
 
@@ -73,15 +73,15 @@ Los tres son los **únicos supervivientes de la cacería de la quimera** (eran 2
   incluidos, para frenar la invasión y acabar a la vez con los clanes.
 - Amenazó con matar a la familia del líder de los topos si contaba la verdad.
 
-## El líder de los topos
-- **Nombre:** *(pendiente; nombre latino, como los súbditos del Imperio)*
+## Severo Fossor — el líder de los topos
+- **Nombre:** Severo Fossor *(provisional)*. *Fossor* es "excavador" (y "sepulturero") en latín.
 - Jefe de los topos zapadores que derribaron el peñasco. Era un hombre **honorable**.
 - Es el único topo vivo que conoce el secreto completo (los ancianos que lo sabían murieron en
   la batalla). El emperador amenazó con acabar con su familia si hablaba.
 - No soportó la carga y se volvió **borracho**.
 
-## El hijo del líder de los topos
-- **Nombre:** *(pendiente; nombre latino)*
+## Lucio Fossor — el hijo
+- **Nombre:** Lucio Fossor *(provisional)*.
 - **Amigo de Jawvit** desde siempre (los clanes lobo y topo siempre se han conocido).
   Su familia vive en el **poblado de Jawvit**.
 - Herrero, como su pueblo: es quien hace el **mantenimiento de la espada** de Jawvit.

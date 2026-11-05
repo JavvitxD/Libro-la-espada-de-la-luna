@@ -8,6 +8,7 @@
   Cornelius, el heraldo).
 - **Referencias:** *El Señor de los Anillos* (Aragorn, los dúnedain, el Abismo de Helm),
   *Juego de tronos* (intrigas de la corte).
-- **Variante del español:** *(pendiente)*
-- **Largo de cada capítulo:** *(pendiente)*
+- **Variante del español:** **de Colombia**: "ustedes" (nunca "vosotros"), vocabulario
+  colombiano natural pero sin modismos que rompan la ambientación de fantasía.
+- **Extensión:** **20 capítulos** de unas 3.000–4.000 palabras.
 - **Cosas a evitar:** *(pendiente)*
