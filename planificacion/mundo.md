@@ -82,6 +82,7 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - Manejan las **runas de sangre** en forma de **tatuajes** hechos con magia de sangre, que
   potencian su fuerza y resistencia. En batalla son **berserkers**.
 - **Líder actual:** Unka el Aniquilador (ver `personajes.md`).
+- **Líder del pasado:** Gran Pisada Blanca, el Gran Reptil Blanco, muerto por Ulfgar.
 
 #### Nombres
 - Al **estilo apache**: descriptivos, en **español** y también en una **lengua propia** de los
