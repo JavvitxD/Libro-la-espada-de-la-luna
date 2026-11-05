@@ -12,8 +12,9 @@
   A lo largo de la historia tiene que **ir despertándola**.
 - **Qué quiere:** sacar a su pueblo del hambre y darle un futuro mejor.
 - **Qué necesita:** dejar de temerle al mundo y forjar su propio destino.
-- **Miedo:** *(pendiente: ¿a qué teme exactamente? ¿A no estar a la altura de su padre? ¿A
-  perder a los suyos como en "El último aullido"?)*
+- **Miedos:** no estar a la altura de su padre, no cumplir las expectativas de los demás,
+  perder a los suyos como en "El último aullido" y el poder de la propia espada. Vencer
+  estos miedos va de la mano con despertar la espada.
 - **Edad / aspecto / personalidad:** *(pendiente)*
 
 ## Los cazadores compañeros de Jawvit
@@ -27,9 +28,13 @@
 
 ## Tsar — el emperador
 - **Especie:** conejo.
-- **Nombre:** Tsar *(provisional, ver "Nombres" en `mundo.md`)*.
-- Líder carismático y querido por todos. Estratega impecable, líder excepcional.
-- Hará lo que sea para lograr sus objetivos. Esconde oscuros secretos.
+- **Nombre:** "Tsar" es su título. Tiene un **nombre completo larguísimo**, lleno de títulos
+  pomposos, como cuando un heraldo presenta a un emperador. *(Pendiente: elegir el nombre.)*
+- **Detalle cómico:** en reuniones informales, cuando alguien empieza a recitar el nombre
+  completo, se molesta y lo hace callar.
+- **Cara pública:** amable, cariñoso, excelente político. Las masas lo quieren y lo respetan.
+- **Lo que nadie sabe:** es un genio estratega, calculador y sanguinario, al que no le
+  importa nada con tal de lograr sus objetivos. Esconde oscuros secretos.
 
 ## Cornelius Justix
 - **Especie:** búho astuto.

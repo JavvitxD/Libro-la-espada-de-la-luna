@@ -48,8 +48,10 @@ La historia transcurre en **Valgrantd**, una isla habitada por criaturas humanoi
 - **Imperio:** nombres inspirados en el **eslavo eclesiástico y el ruso** (ej. *Царьград /
   Tsargrad*; en búlgaro o serbocroata, *Carigrad*). Encaja con su estilo romano:
   "zar" viene de "César", y Tsargrad significa "la ciudad del César".
-- *Pendiente:* revisar juntos los nombres de los personajes (Cornelius y Máximo son latinos).
-- *Pendiente:* convención de nombres de los Ulrak (¿náhuatl o maya?) y del clan lobo.
+- **Familia imperial:** nombres eslavos.
+- **Súbditos y casas nobles:** nombres **latinos** (Cornelius y Máximo se quedan así).
+- **Clan lobo:** nombres de estilo **vikingo**, que suenen heroicos *(por confirmar)*.
+- *Pendiente:* convención de nombres de los Ulrak (¿náhuatl o maya?).
 
 ## Bestias mágicas
 - Están clasificadas en **7 tipos**.
