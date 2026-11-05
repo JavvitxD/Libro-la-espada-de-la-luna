@@ -30,6 +30,12 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - **Tsargrad**: capital del Imperio. **Ciudad portuaria**, junto al mar.
   *(Pendiente: en qué costa.)*
 
+## Más allá de Valgrantd
+- **El Mar Oscuro** rodea Valgrantd.
+- Al otro lado hay **otra tierra**, más pequeña que Valgrantd, donde viven los **humanos**.
+  Destacan por el **uso de la magia**.
+- *(Pendiente: ¿los habitantes de Valgrantd saben que existen los humanos? ¿Hay contacto?)*
+
 ## Facciones
 
 ### El Imperio

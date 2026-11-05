@@ -8,6 +8,7 @@
 | Imperio | Tsar, Cornelius Justix, Capitán Máximo, el emperador anterior † |
 | Ulrak | el Gran Reptil Blanco † |
 | Facción contraria al Imperio | *(pendiente)* |
+| Humanos (fuera de Valgrantd) | el aventurero náufrago |
 
 † = muerto antes de que empiece la historia.
 
@@ -130,3 +131,17 @@ Herreros expertos y zapadores del Imperio. Viven en el poblado de Jawvit.
 
 ## Facción contraria al Imperio
 *(Pendiente: quiénes son, por qué se alían con los Ulrak.)*
+
+---
+
+## Humanos (de más allá del Mar Oscuro)
+
+### El aventurero náufrago
+- **Nombre:** *(pendiente)*
+- **Especie:** **ser humano**, el único de su clase en Valgrantd.
+- **Origen:** una isla más allá del **Mar Oscuro**, otra tierra, más pequeña que Valgrantd,
+  donde viven los humanos.
+- **Llegada:** en una barca, tras un **naufragio**.
+- **Magia:** es un usuario **muy particular** de la magia. *(Pendiente: qué tipo de magia y
+  qué la hace tan particular.)*
+- *(Pendiente: personalidad, papel en la historia, en qué libro aparece.)*
