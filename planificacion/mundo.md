@@ -84,7 +84,8 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - **Familia imperial:** nombres eslavos.
 - **Súbditos y casas nobles:** nombres **latinos** (Cornelius y Máximo se quedan así).
 - **Clan lobo:** nombres de estilo **vikingo**, que suenen heroicos *(por confirmar)*.
-- *Pendiente:* convención de nombres de los Ulrak (¿náhuatl o maya?).
+- **Ulrak:** nombres **descriptivos al estilo apache**, como "Gran Pisada Blanca". *(Pendiente:
+  si van solo en español o también en una lengua propia.)*
 
 ## Bestias mágicas
 - Hay **en todas partes**, pero cuanto más al **norte**, más peligrosas.
