@@ -1,6 +1,21 @@
-# Personajes
+# Personajes por facción
 
-## Jawvit (Jaw) — protagonista
+| Facción | Personajes |
+|---|---|
+| Clan lobo (Montañas Oscuras) | Jawvit, Refr, Björn, Ulfgar † |
+| Clan topo | Severo Fossor, Lucio Fossor |
+| Clan tejón | *(sin personajes con nombre aún)* |
+| Imperio | Tsar, Cornelius Justix, Capitán Máximo, el emperador anterior † |
+| Ulrak | el Gran Reptil Blanco † |
+| Facción contraria al Imperio | *(pendiente)* |
+
+† = muerto antes de que empiece la historia.
+
+---
+
+## Clan lobo y compañeros (poblado de las Montañas Oscuras)
+
+### Jawvit (Jaw) — protagonista
 - **Papel:** protagonista de la primera entrega.
 - **Especie:** **lobo gris** humanoide, del clan lobo.
 - **Edad:** 23 años.
@@ -23,25 +38,56 @@
   perder a los suyos como en "El último aullido" y el poder de la propia espada. Vencer
   estos miedos va de la mano con despertar la espada.
 
-## Los compañeros de cacería de Jawvit
+### Los compañeros de cacería de Jawvit
 El grupo que sale del poblado son **tres**: Jawvit, un zorro y un perro.
 
-### Refr — el zorro
+#### Refr — el zorro
 - **Nombre:** *Refr* ("zorro" en nórdico antiguo).
 - Astuto y ágil. Experto con **dagas y arco**.
 
-### Björn — el mastín
+#### Björn — el mastín
 - **Nombre:** *Björn* ("oso" en nórdico antiguo).
 - **Raza:** **mastín tibetano**: enorme, con melena como de león.
 - Algo torpe al hablar, pero **fuerte y leal**.
 
 Los tres son los **únicos supervivientes de la cacería de la quimera** (eran 20).
 
-## Ulfgar — el padre de Jawvit
+### Ulfgar — el padre de Jawvit
 - Alfa del clan lobo. Cayó en "El último aullido del lobo" tras matar al Gran Reptil Blanco
   en combate singular, lo que obligó a los Ulrak a retirarse. Una leyenda.
 
-## Tsar — el emperador
+---
+
+## Clan topo
+Herreros expertos y zapadores del Imperio. Viven en el poblado de Jawvit.
+
+### Severo Fossor — el líder de los topos
+- **Nombre:** Severo Fossor *(provisional)*. *Fossor* es "excavador" (y "sepulturero") en latín.
+- Jefe de los topos zapadores que derribaron el peñasco. Era un hombre **honorable**.
+- Es el único topo vivo que conoce el secreto completo (los ancianos que lo sabían murieron en
+  la batalla). El emperador amenazó con acabar con su familia si hablaba.
+- No soportó la carga y se volvió **borracho**.
+
+### Lucio Fossor — el hijo
+- **Nombre:** Lucio Fossor *(provisional)*.
+- **Amigo de Jawvit** desde siempre (los clanes lobo y topo siempre se han conocido).
+  Su familia vive en el **poblado de Jawvit**.
+- Herrero, como su pueblo: es quien hace el **mantenimiento de la espada** de Jawvit.
+- **No conoce el secreto.** Ironía dramática: su padre sabe la verdad sobre la muerte de Ulfgar.
+
+---
+
+## Clan tejón
+
+### Papel en "El último aullido"
+- Pusieron la mano de obra para cavar bajo el peñasco.
+- **No conocen el secreto**: creían en el plan.
+
+---
+
+## Imperio
+
+### Tsar — el emperador
 - **Especie:** conejo.
 - **Nombre:** "Tsar" es su título. Gobierna desde **Tsargrad**, la capital. Tiene un **nombre completo larguísimo**, lleno de títulos
   pomposos, como cuando un heraldo presenta a un emperador. *(Pendiente: elegir el nombre.)*
@@ -52,7 +98,7 @@ Los tres son los **únicos supervivientes de la cacería de la quimera** (eran 2
   importa nada con tal de lograr sus objetivos. Esconde oscuros secretos.
 - Conoce el secreto del peñasco que ordenó su predecesor.
 
-## Cornelius Justix
+### Cornelius Justix
 - **Especie:** búho astuto.
 - **Papel:** líder de un **clan de asesinos** temido, cuya misión es proteger al emperador.
 - **Relación con Tsar:** en público a menudo parecen enemigos (intrigas al estilo *Juego de
@@ -61,35 +107,26 @@ Los tres son los **únicos supervivientes de la cacería de la quimera** (eran 2
 - Es **100 % leal** al emperador, y Tsar lo sabe.
 - Conoce el secreto del peñasco. Su frase: *"No hay secreto que el clan de asesinos no sepa."*
 
-## Capitán Máximo
+### Capitán Máximo
 - **Especie:** toro de lidia.
 - Veterano de guerra. Conoce muy bien las capacidades del enemigo.
 - Excepcionalmente fuerte: puede igualar en fuerza física a la élite de los Ulrak.
 - Leal al emperador.
 
-## El emperador anterior
+### El emperador anterior
 - No envió refuerzos al clan lobo en "El último aullido", por envidia.
 - En secreto ordenó a los topos derribar el peñasco sobre **todo** el ejército, aliados
   incluidos, para frenar la invasión y acabar a la vez con los clanes.
 - Amenazó con matar a la familia del líder de los topos si contaba la verdad.
 
-## Severo Fossor — el líder de los topos
-- **Nombre:** Severo Fossor *(provisional)*. *Fossor* es "excavador" (y "sepulturero") en latín.
-- Jefe de los topos zapadores que derribaron el peñasco. Era un hombre **honorable**.
-- Es el único topo vivo que conoce el secreto completo (los ancianos que lo sabían murieron en
-  la batalla). El emperador amenazó con acabar con su familia si hablaba.
-- No soportó la carga y se volvió **borracho**.
+---
 
-## Lucio Fossor — el hijo
-- **Nombre:** Lucio Fossor *(provisional)*.
-- **Amigo de Jawvit** desde siempre (los clanes lobo y topo siempre se han conocido).
-  Su familia vive en el **poblado de Jawvit**.
-- Herrero, como su pueblo: es quien hace el **mantenimiento de la espada** de Jawvit.
-- **No conoce el secreto.** Ironía dramática: su padre sabe la verdad sobre la muerte de Ulfgar.
+## Ulrak
 
-## El clan de los tejones
-- Pusieron la mano de obra para cavar bajo el peñasco.
-- **No conocen el secreto**: creían en el plan.
-
-## El Gran Reptil Blanco
+### El Gran Reptil Blanco
 - Gran guerrero o líder de los Ulrak. Murió a manos del padre de Jawvit.
+
+---
+
+## Facción contraria al Imperio
+*(Pendiente: quiénes son, por qué se alían con los Ulrak.)*
