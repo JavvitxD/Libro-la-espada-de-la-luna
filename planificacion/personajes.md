@@ -17,9 +17,19 @@
   estos miedos va de la mano con despertar la espada.
 - **Edad / aspecto / personalidad:** *(pendiente)*
 
-## Los cazadores compañeros de Jawvit
-- Pequeño grupo que sale del poblado con Jawvit. *(Pendiente: ¿son tres más Jawvit, o tres en
-  total? Nombres, especie y carácter de cada uno.)*
+## Los compañeros de cacería de Jawvit
+El grupo que sale del poblado son **tres**: Jawvit, un zorro y un perro.
+
+### El zorro
+- **Nombre:** *(pendiente; estilo vikingo)*
+- Astuto y ágil. Experto con **dagas y arco**.
+
+### El perro
+- **Nombre:** *(pendiente; estilo vikingo)*
+- **Raza:** de montaña *(pendiente de elegir)*.
+- Algo torpe al hablar, pero **fuerte y leal**.
+
+*(Pendiente: ¿alguno de los dos es el otro superviviente de la quimera?)*
 
 ## Ulfgar — el padre de Jawvit
 - Alfa del clan lobo. Cayó en "El último aullido del lobo" tras matar al Gran Reptil Blanco
@@ -67,6 +77,7 @@
 ## El hijo del líder de los topos
 - **Nombre:** *(pendiente; nombre latino)*
 - **Amigo de Jawvit** desde siempre (los clanes lobo y topo siempre se han conocido).
+  Su familia vive en el **poblado de Jawvit**.
 - Herrero, como su pueblo: es quien hace el **mantenimiento de la espada** de Jawvit.
 - **No conoce el secreto.** Ironía dramática: su padre sabe la verdad sobre la muerte de Ulfgar.
 
