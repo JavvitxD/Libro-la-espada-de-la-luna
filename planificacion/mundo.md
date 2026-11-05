@@ -4,11 +4,20 @@
 La historia transcurre en **Valgrantd**, una isla habitada por criaturas humanoides
 (animales que piensan y hablan como humanos) y dividida por la guerra.
 
-- **Dos tercios** de la isla pertenecen al **Imperio**.
-- El resto: territorio de los **Ulrak** *(pendiente de confirmar)*.
-- **Las Montañas Oscuras**: lugar inhóspito y peligroso donde rondan bestias mágicas.
-  Allí viven, como nómadas, los últimos supervivientes del clan lobo.
-- **La Gran Muralla**: defensa del Imperio frente a los Ulrak *(ubicación y detalles pendientes)*.
+Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
+
+- **El Imperio** ocupa **dos tercios** de la isla: todo el oeste y el sur.
+- **Los Ulrak** ocupan el **tercio este**.
+- **La cadena montañosa**: atraviesa la isla de norte a sureste y hace de frontera natural
+  entre el Imperio y los Ulrak. Hacia la mitad de la cadena hay una **fortaleza**.
+  *(Pendiente: ¿la fortaleza forma parte de la Gran Muralla?)*
+- **Las Montañas Oscuras**: cordillera en el **noroeste**, a lo largo de la costa norte.
+  Lugar inhóspito y peligroso donde rondan bestias mágicas. En su extremo este está el
+  **poblado de Jawvit**, donde viven como nómadas los últimos supervivientes del clan lobo.
+- **El campo de "El último aullido"**: en el **norte**, donde empieza la cadena montañosa,
+  entre el poblado de Jawvit y la frontera con los Ulrak.
+- **Tsargrad**: capital del Imperio *(pendiente: ubicación en el mapa)*.
+- **La Gran Muralla**: defensa del Imperio frente a los Ulrak *(detalles pendientes)*.
 
 ## Facciones
 

@@ -21,14 +21,13 @@
 - Pequeño grupo que sale del poblado con Jawvit. *(Pendiente: ¿son tres más Jawvit, o tres en
   total? Nombres, especie y carácter de cada uno.)*
 
-## El padre de Jawvit
-- **Nombre:** *(pendiente)*
+## Ulfgar — el padre de Jawvit
 - Alfa del clan lobo. Cayó en "El último aullido del lobo" tras matar al Gran Reptil Blanco
   en combate singular, lo que obligó a los Ulrak a retirarse. Una leyenda.
 
 ## Tsar — el emperador
 - **Especie:** conejo.
-- **Nombre:** "Tsar" es su título. Tiene un **nombre completo larguísimo**, lleno de títulos
+- **Nombre:** "Tsar" es su título. Gobierna desde **Tsargrad**, la capital. Tiene un **nombre completo larguísimo**, lleno de títulos
   pomposos, como cuando un heraldo presenta a un emperador. *(Pendiente: elegir el nombre.)*
 - **Detalle cómico:** en reuniones informales, cuando alguien empieza a recitar el nombre
   completo, se molesta y lo hace callar.
