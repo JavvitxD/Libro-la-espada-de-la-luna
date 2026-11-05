@@ -12,6 +12,8 @@
   "clase desastre") y sobrevivir: de los **20** cazadores solo sobrevivieron **tres**: Jawvit
   y sus dos compañeros, el zorro y el mastín.
 - **Oficio:** mercenario y cazador. Guerrero formidable y respetado.
+- **El aura:** ya la conoce. La despertó y la afiló **la noche de la quimera**. Pero **la
+  esconde**: solo la muestra cuando su habilidad marcial no basta.
 - **Relación con la espada:** la heredó de su padre, igual que su capacidad de alfa. Pero
   todavía **no puede usarla en todo su esplendor**: sus **miedos internos** se lo impiden.
   A lo largo de la historia tiene que **ir despertándola**.

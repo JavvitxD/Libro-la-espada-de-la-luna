@@ -1,10 +1,13 @@
 # Estilo
 
-- **Público:** (infantil, juvenil, adulto)
-- **Narrador:** (primera persona / tercera persona; ¿un solo punto de vista o varios?)
-- **Tiempo verbal:** (pasado / presente)
-- **Tono:** (épico, oscuro, con humor, poético…)
-- **Largo de cada capítulo:** (ej. 2.500–4.000 palabras)
-- **Variante del español:** (neutro, de España, de México, de Argentina…)
-- **Libros o autores de referencia:**
-- **Cosas a evitar:**
+- **Público:** **adulto**. Violencia más cruda: las batallas tienen consecuencias y sangre.
+- **Narrador:** **tercera persona**, alternando entre la historia de Jawvit y la del Imperio
+  (Tsar, Cornelius, Máximo).
+- **Tiempo verbal:** pasado.
+- **Tono:** épico y oscuro, con momentos de humor (el mastín, las escenas a solas de Tsar y
+  Cornelius, el heraldo).
+- **Referencias:** *El Señor de los Anillos* (Aragorn, los dúnedain, el Abismo de Helm),
+  *Juego de tronos* (intrigas de la corte).
+- **Variante del español:** *(pendiente)*
+- **Largo de cada capítulo:** *(pendiente)*
+- **Cosas a evitar:** *(pendiente)*

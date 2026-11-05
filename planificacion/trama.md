@@ -34,6 +34,10 @@ El emperador anterior sacrificó a propósito al clan lobo y a sus aliados en "E
 - La lealtad: ¿a quién se le debe? (Máximo y el emperador; el clan lobo y el Imperio que lo abandonó)
 - Recuperar el espíritu de lucha perdido.
 
+## Gancho para el trabajo de mercenario
+Las ciudades y pueblos costeros contratan mercenarios contra las incursiones Ulrak. Es una
+salida natural para Jawvit y su grupo: cazar bestias (núcleos de éter) y defender la costa.
+
 ## Final del primer libro
 Jawvit ve **a lo lejos la Gran Muralla y el castillo bajo asedio**. La invasión Ulrak ha
 comenzado. Es un final abierto, un gancho para la segunda entrega.

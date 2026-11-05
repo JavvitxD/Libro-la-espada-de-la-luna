@@ -8,6 +8,9 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 
 - **El Imperio** ocupa **dos tercios** de la isla: todo el oeste y el sur.
 - **Los Ulrak** ocupan el **tercio este**.
+- **Defensas naturales**: las montañas siempre han protegido al Imperio, y las **bestias
+  mágicas** que las habitan dificultan cruzarlas. Por las incursiones Ulrak, las **ciudades y
+  pueblos costeros** tienen fuerzas armadas propias y contratan **mercenarios**.
 - **La cadena montañosa y la Gran Muralla**: la cadena atraviesa la isla de norte a sureste y
   separa el Imperio de los Ulrak. La **Gran Muralla** cierra el paso entre ambos y **nunca ha
   caído en batalla**. Después de "El último aullido", y gracias a la retirada de los Ulrak, se
@@ -47,6 +50,9 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - No inventan tecnología. Son más salvajes y desprecian las armas de fuego porque las
   consideran **armas de cobardes** (es algo cultural). Pueden usar armas robadas, pero
   con poca eficacia, sobre todo los reptiles pequeños, que no tienen disciplina militar.
+- **Incursiones:** a veces se cuelan por **cuevas** o escalan los **escarpados** de la
+  cordillera para hacer incursiones al estilo vikingo: saquean y se llevan **esclavos**. Otras
+  veces cruzan el **mar en barcas** y atacan la costa.
 - Su gran líder del pasado: **el Gran Reptil Blanco**, muerto por Ulfgar, el padre de Jawvit.
 
 ### El clan lobo
@@ -86,6 +92,8 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - Es la **fuerza interior del alma**.
 - Solo algunos lobos, **los alfa**, pueden usarla.
 - Fortalece el cuerpo y las armas, hasta poder **cortar cualquier cosa**.
+- **Solo se aprende en situaciones extremas.** Es muy raro encontrar un maestro capaz de
+  enseñarla en tiempos de paz o sin un entrenamiento brutal.
 
 ## La espada de la luna
 - Forjada con el material de una **estrella caída**.
