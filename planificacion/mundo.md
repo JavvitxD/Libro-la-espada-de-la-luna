@@ -15,7 +15,9 @@ La historia transcurre en **Valgrantd**, una isla habitada por criaturas humanoi
 ### El Imperio
 - Pueblo de **mamíferos**: conejos, bueyes, toros, perros, lobos, leones…
 - Arquitectura inspirada en **Roma**, con toques de Italia y Gran Bretaña.
-- Gobernado por un **emperador**.
+- Gobernado por el **emperador Tsar** (conejo).
+- Protegido en las sombras por el **clan de asesinos** de Cornelius Justix (búho).
+  *(Pendiente: nombre del clan.)*
 - Tecnología **steampunk**: mosquetes, trenes, maquinaria de vapor.
 - Está a punto de descubrir la **pólvora y los explosivos**, y cree que con ellos tiene
   asegurada la victoria. Será su perdición (ver `trama.md`).
@@ -41,6 +43,18 @@ La historia transcurre en **Valgrantd**, una isla habitada por criaturas humanoi
 
 ### Facción contraria al Imperio
 - Se alía con los Ulrak para robar la pólvora. *(Pendiente: quiénes son y por qué.)*
+
+## Nombres
+- **Imperio:** nombres inspirados en el **eslavo eclesiástico y el ruso** (ej. *Царьград /
+  Tsargrad*; en búlgaro o serbocroata, *Carigrad*). Encaja con su estilo romano:
+  "zar" viene de "César", y Tsargrad significa "la ciudad del César".
+- *Pendiente:* revisar juntos los nombres de los personajes (Cornelius y Máximo son latinos).
+- *Pendiente:* convención de nombres de los Ulrak (¿náhuatl o maya?) y del clan lobo.
+
+## Bestias mágicas
+- Están clasificadas en **7 tipos**.
+- **Tipo 5 — "clase desastre"**: por ejemplo, la **quimera**.
+- *(Pendiente: nombres y ejemplos del resto de tipos.)*
 
 ## El aura
 - Es la **fuerza interior del alma**.

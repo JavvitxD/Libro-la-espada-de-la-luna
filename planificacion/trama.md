@@ -10,6 +10,14 @@ Saga. Este libro es **la primera entrega**.
   culpa de los Ulrak y de la envidia del emperador anterior.
 - **Presente:** Jawvit, el último de un linaje alfa, vive con los nómadas del clan lobo en
   las Montañas Oscuras.
+
+## Dos historias paralelas (se unirán más adelante)
+1. **Jawvit:** el **hambre** golpea a su pueblo. Con un pequeño grupo de cazadores, sale de las
+   montañas en busca de un futuro mejor. También lo hace para dejar de temerle al mundo y
+   forjar su propio destino.
+2. **El Imperio:** Tsar, Cornelius y Máximo; la pólvora, el robo y la guerra con los Ulrak.
+
+*Pendiente:* ¿dónde y cómo se cruzan las dos historias?
 - **La pólvora:** el Imperio la descubre y cree que con ella tiene la victoria asegurada.
 - **El robo:** los Ulrak, aliados con una facción contraria al Imperio, roban la pólvora.
 - **La gran invasión:** usan la pólvora para **volar la Gran Muralla** (como el orco que se
@@ -21,5 +29,4 @@ Saga. Este libro es **la primera entrega**.
 - Recuperar el espíritu de lucha perdido.
 
 ## Pendiente
-- ¿Cómo empieza el libro? ¿Qué saca a Jawvit de las montañas?
 - ¿Cómo termina esta primera entrega?
