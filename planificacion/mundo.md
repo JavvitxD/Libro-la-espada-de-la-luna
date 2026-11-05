@@ -39,7 +39,7 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - No inventan tecnología. Son más salvajes y desprecian las armas de fuego porque las
   consideran **armas de cobardes** (es algo cultural). Pueden usar armas robadas, pero
   con poca eficacia, sobre todo los reptiles pequeños, que no tienen disciplina militar.
-- Su gran líder del pasado: **el Gran Reptil Blanco**, muerto por el padre de Jawvit.
+- Su gran líder del pasado: **el Gran Reptil Blanco**, muerto por Ulfgar, el padre de Jawvit.
 
 ### El clan lobo
 - Clan de lobos, casi extinto. Inspirado en los **dúnedain** de *El Señor de los Anillos*:
@@ -82,7 +82,7 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - Gran batalla legendaria entre el clan lobo y los Ulrak.
 - El emperador anterior **no envió refuerzos por envidia**.
 - Murió el **95 % del clan lobo**.
-- El padre de Jawvit cayó, pero antes mató en **combate singular al Gran Reptil Blanco**,
+- Ulfgar, el padre de Jawvit, cayó, pero antes mató en **combate singular al Gran Reptil Blanco**,
   y eso obligó a los Ulrak a retirarse. Sin esa victoria, los lobos habrían desaparecido
   por completo y los Ulrak habrían destruido al menos un tercio del Imperio.
 - *Pendiente:* ¿cuántos años han pasado? ¿Qué edad tenía Jawvit?
