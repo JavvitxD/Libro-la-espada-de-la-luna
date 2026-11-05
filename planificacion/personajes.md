@@ -2,10 +2,15 @@
 
 ## Jawvit (Jaw) — protagonista
 - **Papel:** protagonista de la primera entrega.
-- **Especie:** lobo humanoide, del clan lobo.
+- **Especie:** **lobo gris** humanoide, del clan lobo.
+- **Edad:** 23 años.
+- **Personalidad:** **serio y callado**, al estilo de **Aragorn** en *El Señor de los Anillos*:
+  líder reticente, noble, carga con el peso de su linaje y duda de sí mismo, pero los demás lo
+  siguen de forma natural.
 - **Vive en:** un pequeño poblado nómada en las Montañas Oscuras.
 - **Apodo:** **"La Mandíbula"**. Se lo ganó al enfrentarse a una **quimera** (bestia de tipo 5,
-  "clase desastre") y sobrevivir: de esa cacería solo salieron con vida dos. *(Pendiente: ¿quién fue el otro?)*
+  "clase desastre") y sobrevivir: de los **20** cazadores solo sobrevivieron **tres**: Jawvit
+  y sus dos compañeros, el zorro y el mastín.
 - **Oficio:** mercenario y cazador. Guerrero formidable y respetado.
 - **Relación con la espada:** la heredó de su padre, igual que su capacidad de alfa. Pero
   todavía **no puede usarla en todo su esplendor**: sus **miedos internos** se lo impiden.
@@ -15,7 +20,6 @@
 - **Miedos:** no estar a la altura de su padre, no cumplir las expectativas de los demás,
   perder a los suyos como en "El último aullido" y el poder de la propia espada. Vencer
   estos miedos va de la mano con despertar la espada.
-- **Edad / aspecto / personalidad:** *(pendiente)*
 
 ## Los compañeros de cacería de Jawvit
 El grupo que sale del poblado son **tres**: Jawvit, un zorro y un perro.
@@ -26,10 +30,10 @@ El grupo que sale del poblado son **tres**: Jawvit, un zorro y un perro.
 
 ### El perro
 - **Nombre:** *(pendiente; estilo vikingo)*
-- **Raza:** de montaña *(pendiente de elegir)*.
+- **Raza:** **mastín tibetano**: enorme, con melena como de león.
 - Algo torpe al hablar, pero **fuerte y leal**.
 
-*(Pendiente: ¿alguno de los dos es el otro superviviente de la quimera?)*
+Los tres son los **únicos supervivientes de la cacería de la quimera** (eran 20).
 
 ## Ulfgar — el padre de Jawvit
 - Alfa del clan lobo. Cayó en "El último aullido del lobo" tras matar al Gran Reptil Blanco
