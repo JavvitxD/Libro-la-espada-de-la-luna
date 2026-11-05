@@ -8,16 +8,24 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 
 - **El Imperio** ocupa **dos tercios** de la isla: todo el oeste y el sur.
 - **Los Ulrak** ocupan el **tercio este**.
-- **La cadena montañosa**: atraviesa la isla de norte a sureste y hace de frontera natural
-  entre el Imperio y los Ulrak. Hacia la mitad de la cadena hay una **fortaleza**.
-  *(Pendiente: ¿la fortaleza forma parte de la Gran Muralla?)*
+- **La cadena montañosa y la Gran Muralla**: la cadena atraviesa la isla de norte a sureste y
+  separa el Imperio de los Ulrak. La **Gran Muralla** cierra el paso entre ambos y **nunca ha
+  caído en batalla**. Después de "El último aullido", y gracias a la retirada de los Ulrak, se
+  construyó un **castillo** y la muralla se amplió mucho más.
 - **Las Montañas Oscuras**: cordillera en el **noroeste**, a lo largo de la costa norte.
   Lugar inhóspito y peligroso donde rondan bestias mágicas. En su extremo este está el
   **poblado de Jawvit**, donde viven como nómadas los últimos supervivientes del clan lobo.
 - **El campo de "El último aullido"**: en el **norte**, donde empieza la cadena montañosa,
-  entre el poblado de Jawvit y la frontera con los Ulrak.
-- **Tsargrad**: capital del Imperio *(pendiente: ubicación en el mapa)*.
-- **La Gran Muralla**: defensa del Imperio frente a los Ulrak *(detalles pendientes)*.
+  entre el poblado de Jawvit y la frontera con los Ulrak. Era agua que **se congeló durante un
+  periodo de frío** y abrió un paso para los ejércitos Ulrak, que así rodearon la muralla.
+  Tras la batalla el hielo se rompió y quedaron **islotes de tierra**: hoy es **tierra de
+  nadie**, habitada solo por bestias mágicas muy poderosas. Nadie se atreve a cruzar.
+  Existe el **miedo** de que otra glaciación vuelva a abrir el camino.
+  *(Pendiente: nombre del lugar.)*
+- **Pantano**: al sur del campo de batalla, en territorio del Imperio.
+- **Bosques del sur**: el sur del Imperio está lleno de bosques con bestias mágicas.
+- **Tsargrad**: capital del Imperio. **Ciudad portuaria**, junto al mar.
+  *(Pendiente: en qué costa.)*
 
 ## Facciones
 
@@ -63,6 +71,9 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - *Pendiente:* convención de nombres de los Ulrak (¿náhuatl o maya?).
 
 ## Bestias mágicas
+- Hay **en todas partes**, pero cuanto más al **norte**, más peligrosas.
+- Tienen un **núcleo de éter**, que se usa para propulsar la **maquinaria del Imperio** y
+  las **armaduras steampunk**. Cazarlas es, por tanto, un recurso valioso.
 - Están clasificadas en **7 tipos**.
 - **Tipo 5 — "clase desastre"**: por ejemplo, la **quimera**.
 - *(Pendiente: nombres y ejemplos del resto de tipos.)*
@@ -79,9 +90,13 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - *Pendiente:* ¿quién la forjó y cuándo? ¿Qué pasa si la toca alguien que no es alfa?
 
 ## Historia: "El último aullido del lobo"
-- Gran batalla legendaria entre el clan lobo y los Ulrak.
+- Gran batalla legendaria entre los Ulrak y una alianza del **clan lobo, los zorros y otros
+  cánidos**, sobre el agua congelada del norte (ver Geografía).
 - El emperador anterior **no envió refuerzos por envidia**.
 - Murió el **95 % del clan lobo**.
+- **El derrumbe:** en plena batalla se derribó un **peñasco** (una pequeña montaña) sobre el
+  hielo. El hielo se rompió y gran parte de **ambos ejércitos** pereció.
+  *(Pendiente: qué pueblo excavó para derribarlo y quién dio la orden.)*
 - Ulfgar, el padre de Jawvit, cayó, pero antes mató en **combate singular al Gran Reptil Blanco**,
   y eso obligó a los Ulrak a retirarse. Sin esa victoria, los lobos habrían desaparecido
   por completo y los Ulrak habrían destruido al menos un tercio del Imperio.
