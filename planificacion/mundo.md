@@ -96,7 +96,19 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - Murió el **95 % del clan lobo**.
 - **El derrumbe:** en plena batalla se derribó un **peñasco** (una pequeña montaña) sobre el
   hielo. El hielo se rompió y gran parte de **ambos ejércitos** pereció.
-  *(Pendiente: qué pueblo excavó para derribarlo y quién dio la orden.)*
+- **Quién lo hizo:** los **topos zapadores** del Imperio, por orden secreta del **emperador
+  anterior**. El **clan de los tejones** puso la mano de obra para cavar.
+- **Lo que se sabía:** Ulfgar y un grupo de élite de lobos, perros y zorros conocían el plan
+  de derribar el peñasco. El emperador se lo presentó como la única esperanza de frenar la
+  invasión.
+- **EL SECRETO:** el emperador **no les dijo que el peñasco caería sobre todo el ejército**,
+  aliados incluidos, y no solo sobre el enemigo. El plan estaba diseñado así a propósito.
+  Además de frenar a los Ulrak, era una jugada para **acabar con los clanes** (lobos y
+  cánidos), a los que el emperador envidiaba y temía.
+- **Quién conoce la verdad:** el líder de los topos (ver `personajes.md`). Los tejones no la
+  conocen: solo cavaron. *(Pendiente: ¿la conoce Tsar? ¿Cornelius?)*
+- **Si se supiera:** sería un golpe enorme para el Imperio, porque todos descubrirían que el
+  emperador sacrificó a los clanes a propósito.
 - Ulfgar, el padre de Jawvit, cayó, pero antes mató en **combate singular al Gran Reptil Blanco**,
   y eso obligó a los Ulrak a retirarse. Sin esa victoria, los lobos habrían desaparecido
   por completo y los Ulrak habrían destruido al menos un tercio del Imperio.

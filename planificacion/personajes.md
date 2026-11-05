@@ -51,6 +51,26 @@
 
 ## El emperador anterior
 - No envió refuerzos al clan lobo en "El último aullido", por envidia.
+- En secreto ordenó a los topos derribar el peñasco sobre **todo** el ejército, aliados
+  incluidos, para frenar la invasión y acabar a la vez con los clanes.
+- Amenazó con matar a la familia del líder de los topos si contaba la verdad.
+
+## El líder de los topos
+- **Nombre:** *(pendiente; nombre latino, como los súbditos del Imperio)*
+- Jefe de los topos zapadores que derribaron el peñasco. Era un hombre **honorable**.
+- Es el único que conoce el secreto completo. El emperador amenazó con acabar con su familia
+  si hablaba.
+- No soportó la carga y se volvió **borracho**.
+
+## El hijo del líder de los topos
+- **Nombre:** *(pendiente; nombre latino)*
+- Se hace **amigo de Jawvit** y es quien hace el **mantenimiento de su espada**.
+- **Ironía dramática:** su padre conoce la verdad sobre la muerte de Ulfgar.
+  *(Pendiente: ¿el hijo conoce el secreto?)*
+
+## El clan de los tejones
+- Pusieron la mano de obra para cavar bajo el peñasco.
+- **No conocen el secreto**: creían en el plan.
 
 ## El Gran Reptil Blanco
 - Gran guerrero o líder de los Ulrak. Murió a manos del padre de Jawvit.

@@ -11,6 +11,11 @@ Saga. Este libro es **la primera entrega**.
 - **Presente:** Jawvit, el último de un linaje alfa, vive con los nómadas del clan lobo en
   las Montañas Oscuras.
 
+## El gran secreto (revelación de la saga)
+El emperador anterior sacrificó a propósito al clan lobo y a sus aliados en "El último aullido"
+(ver `mundo.md`). Solo el líder de los topos sabe toda la verdad. Su hijo es amigo de Jawvit.
+*(Pendiente: ¿en qué entrega se revela? ¿Cómo lo descubre Jawvit?)*
+
 ## Dos historias paralelas (se unirán más adelante)
 1. **Jawvit:** el **hambre** golpea a su pueblo. Con un pequeño grupo de cazadores, sale de las
    montañas en busca de un futuro mejor. También lo hace para dejar de temerle al mundo y
