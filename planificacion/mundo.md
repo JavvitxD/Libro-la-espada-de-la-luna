@@ -54,6 +54,15 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - No inventan tecnología. Son más salvajes y desprecian las armas de fuego porque las
   consideran **armas de cobardes** (es algo cultural). Pueden usar armas robadas, pero
   con poca eficacia, sobre todo los reptiles pequeños, que no tienen disciplina militar.
+- **Gobierno:** **dictadura militar**. La justicia es de mano dura. En el 99 % de los casos se
+  respeta el dictamen del **caudillo**, aunque entre los líderes hay una delgada línea de
+  irrespeto. Los caudillos, a su vez, respetan las labores de cada casta.
+- **Esclavos:** los usan para **construir, labrar la tierra** y otras labores manuales que a
+  los reptiles no se les dan bien.
+- **Comercio y contrabando:** a algunos **comerciantes del Imperio** les gusta comerciar con
+  los Ulrak: **piedras preciosas, metales** y la **flor de la noche**, una droga. Hay
+  comerciantes de ambos lados que se conectan, y por eso existen **pasos montañosos** secretos,
+  que también usan los guerreros.
 - **Incursiones:** a veces se cuelan por **cuevas** o escalan los **escarpados** de la
   cordillera para hacer incursiones al estilo vikingo: saquean y se llevan **esclavos**. Otras
   veces cruzan el **mar en barcas** y atacan la costa.
@@ -79,6 +88,9 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - Todo tipo de reptiles: grandes lagartos, **dinosaurios de tamaño humanoide**, cocodrilos…
 - Aquí todo se obtiene por la **fuerza** y el **honor en batalla**. Su líder suele ser el más
   fuerte.
+- Los **reptiles pequeños** son la **carne de cañón**. A ellos se les permite usar **armas
+  robadas** del Imperio. Los demás también pueden, pero los guerreros más **ortodoxos** ven mal
+  usarlas de forma constante.
 - Manejan las **runas de sangre** en forma de **tatuajes** hechos con magia de sangre, que
   potencian su fuerza y resistencia. En batalla son **berserkers**.
 - **Líder actual:** Unka el Aniquilador (ver `personajes.md`).

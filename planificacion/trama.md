@@ -38,6 +38,11 @@ El emperador anterior sacrificó a propósito al clan lobo y a sus aliados en "E
 Las ciudades y pueblos costeros contratan mercenarios contra las incursiones Ulrak. Es una
 salida natural para Jawvit y su grupo: cazar bestias (núcleos de éter) y defender la costa.
 
+## Ideas por decidir más adelante
+- **Los camaleones asesinos roban la pólvora**: invisibles, se cuelan en el depósito imperial.
+  Asesinos contra asesinos frente al clan de Cornelius. *(Al autor le gusta; se decide al
+  llegar a ese punto.)*
+
 ## Final del primer libro
 Jawvit ve **a lo lejos la Gran Muralla y el castillo bajo asedio**. La invasión Ulrak ha
 comenzado. Es un final abierto, un gancho para la segunda entrega.

@@ -127,7 +127,8 @@ Herreros expertos y zapadores del Imperio. Viven en el poblado de Jawvit.
 ### Unka el Aniquilador — líder del Clan Guerrero
 - **Especie:** **cocodrilo del Nilo negro**, de casi **2,5 metros** de altura.
 - **Arma:** **hacha de guerra a dos manos**.
-- Es el líder actual del Clan Guerrero: el más fuerte. Tatuajes de runas de sangre.
+- Es el **caudillo** actual: el más fuerte del Clan Guerrero. Tatuajes de runas de sangre.
+- **No es un bruto sin cerebro:** es un cocodrilo **muy inteligente** y feroz en batalla.
 - *Unka* significa "el Aniquilador" en la lengua de los Ulrak.
 
 ### Gran Pisada Blanca — el Gran Reptil Blanco †
