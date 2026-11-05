@@ -49,9 +49,7 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
   asegurada la victoria. Será su perdición (ver `trama.md`).
 
 ### Los Ulrak
-- Imperio de estilo **azteca y maya**.
-- Pueblo de **reptiles**: lagartos, cocodrilos, serpientes y geckos.
-- Montan **dinosaurios**.
+- Imperio de estilo **azteca y maya**, de **reptiles**.
 - Usan **magia de sangre**, a la que llaman **runas de espíritu**. No conocen la palabra "magia".
 - No inventan tecnología. Son más salvajes y desprecian las armas de fuego porque las
   consideran **armas de cobardes** (es algo cultural). Pueden usar armas robadas, pero
@@ -59,7 +57,35 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - **Incursiones:** a veces se cuelan por **cuevas** o escalan los **escarpados** de la
   cordillera para hacer incursiones al estilo vikingo: saquean y se llevan **esclavos**. Otras
   veces cruzan el **mar en barcas** y atacan la costa.
-- Su gran líder del pasado: **el Gran Reptil Blanco**, muerto por Ulfgar, el padre de Jawvit.
+- **Físico:** frente a los animales del Imperio son como un orco frente a un humano en
+  *World of Warcraft*: más grandes, más brutos, más resistentes.
+
+#### Las tres castas
+
+**1. Los Olvidados**
+- Reptiles **sin inteligencia**: cocodrilos, tiranosaurios y otros. Casi iguales a los
+  reptiles reales, con ligeras diferencias (cuernos, plumas…).
+- Sirven de **alimento** y de **monturas** (los dinosaurios de guerra).
+
+**2. Los Ancianos**
+- **Serpientes, dragones de Komodo y camaleones.**
+- Se encargan de la parte **ritual**. Manejan las **runas de la naturaleza** y la **magia de
+  sangre**.
+- No son tan diestros en combate: luchan como **chamanes**, invocan **tótems de batalla** y usan
+  su propia sangre y la del enemigo para defenderse.
+- **Los camaleones** son los **asesinos** de la raza.
+
+**3. El Clan Guerrero**
+- Todo tipo de reptiles: grandes lagartos, **dinosaurios de tamaño humanoide**, cocodrilos…
+- Aquí todo se obtiene por la **fuerza** y el **honor en batalla**. Su líder suele ser el más
+  fuerte.
+- Manejan las **runas de sangre** en forma de **tatuajes** hechos con magia de sangre, que
+  potencian su fuerza y resistencia. En batalla son **berserkers**.
+- **Líder actual:** Unka el Aniquilador (ver `personajes.md`).
+
+#### Nombres
+- Al **estilo apache**: descriptivos, en **español** y también en una **lengua propia** de los
+  Ulrak (inventada), para dar misticismo. Ej.: *Unka* = "el Aniquilador".
 
 ### El clan lobo
 - Clan de lobos, casi extinto. Inspirado en los **dúnedain** de *El Señor de los Anillos*:
@@ -84,8 +110,8 @@ Mapa dibujado por el autor: `planificacion/mapa-borrador.png`.
 - **Familia imperial:** nombres eslavos.
 - **Súbditos y casas nobles:** nombres **latinos** (Cornelius y Máximo se quedan así).
 - **Clan lobo:** nombres de estilo **vikingo**, que suenen heroicos *(por confirmar)*.
-- **Ulrak:** nombres **descriptivos al estilo apache**, como "Gran Pisada Blanca". *(Pendiente:
-  si van solo en español o también en una lengua propia.)*
+- **Ulrak:** nombres **descriptivos al estilo apache**, en español y en su lengua propia
+  (ver la sección de los Ulrak).
 
 ## Bestias mágicas
 - Hay **en todas partes**, pero cuanto más al **norte**, más peligrosas.

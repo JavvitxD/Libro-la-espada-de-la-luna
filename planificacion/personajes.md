@@ -6,7 +6,7 @@
 | Clan topo | Severo Fossor, Lucio Fossor |
 | Clan tejón | *(sin personajes con nombre aún)* |
 | Imperio | Tsar, Cornelius Justix, Capitán Máximo, el emperador anterior † |
-| Ulrak | el Gran Reptil Blanco † |
+| Ulrak | Unka el Aniquilador, Gran Pisada Blanca † |
 | Facción contraria al Imperio | *(pendiente)* |
 | Humanos (fuera de Valgrantd) | el aventurero náufrago |
 
@@ -124,8 +124,16 @@ Herreros expertos y zapadores del Imperio. Viven en el poblado de Jawvit.
 
 ## Ulrak
 
-### El Gran Reptil Blanco
-- Gran guerrero o líder de los Ulrak. Murió a manos del padre de Jawvit.
+### Unka el Aniquilador — líder del Clan Guerrero
+- **Especie:** **cocodrilo del Nilo negro**, de casi **2,5 metros** de altura.
+- **Arma:** **hacha de guerra a dos manos**.
+- Es el líder actual del Clan Guerrero: el más fuerte. Tatuajes de runas de sangre.
+- *Unka* significa "el Aniquilador" en la lengua de los Ulrak.
+
+### Gran Pisada Blanca — el Gran Reptil Blanco †
+- Nombre en lengua Ulrak: *Xak'tal Sesh* *(provisional)*.
+- Gran guerrero y líder de los Ulrak en "El último aullido". Murió a manos de Ulfgar en
+  combate singular.
 
 ---
 
